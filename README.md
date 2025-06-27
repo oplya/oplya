@@ -7,7 +7,7 @@
   <li>bootstrap 5</li>
   <li>JS</li>
   <li>DOM</li>
-  <li>React</li>
+  <li>React 18.x || 19.x</li>
   <li>Git</li>
   <li>npm</li>
 </ul>
