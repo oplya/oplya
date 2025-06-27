@@ -4,6 +4,12 @@
 <ul>Skills:
   <li>html</li>
   <li>css</li>
+  <li>bootstrap 5</li>
+  <li>JS</li>
+  <li>DOM</li>
+  <li>React</li>
+  <li>Git</li>
+  <li>npm</li>
 </ul>
 
 <!--
