@@ -4,7 +4,7 @@
 <ul>Skills:
   <li>html</li>
   <li>css</li>
-  <li>Figma<li>
+  <li>Figma</li>
   <li>bootstrap 5</li>
   <li>JS</li>
   <li>DOM</li>
